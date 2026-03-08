@@ -6,3 +6,13 @@ output/
 
 .env
 .eslintcache
+
+/src/generated/prisma
+
+/src/generated/prisma
+
+/src/generated/prisma
+
+/src/generated/prisma
+
+/src/generated/prisma
