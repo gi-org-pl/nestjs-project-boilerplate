@@ -1,3 +1,5 @@
+![nestjs-project-boilerplate header](https://raw.githubusercontent.com/gi-org-pl/nestjs-project-boilerplate/main/.github/image/header.png)
+
 # Nest.js project boilerplate nestjs-project-boilerplate
 
 ## Repository contents
